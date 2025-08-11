@@ -14,5 +14,5 @@
 
 ##  A simple Arduino-based push button counter system. At its core is an Arduino Uno (Simulino UNO), which monitors a push button input and updates an LCD display with the current count each time the button is pressed. The LCD is connected to the Arduino via multiple control and data pins, including RS, RW, E, and D0–D7, allowing it to receive and display numerical data. Power and ground connections ensure stable operation, while a resistor is likely used to debounce the button or act as a pull-down to prevent false triggering. Terminal labels such as INPUT, OUTPUT, BIDIR, POWER, and GROUND clarify signal direction and electrical roles within the circuit. This setup is ideal for learning digital input handling and display interfacing with Arduino. It is designed in Proteus 7.
 
-
+# Circuit
 <img width="1840" height="909" alt="Image" src="https://github.com/user-attachments/assets/68ea52cb-3eb9-4c7b-a767-9d6a84eaa638" />
